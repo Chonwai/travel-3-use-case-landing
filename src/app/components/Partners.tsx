@@ -4,7 +4,7 @@ export default function Partners() {
         <div className="relative w-full h-[519px] bg-gradient-to-b from-white to-[#F7FAFA] flex flex-col items-center py-10 space-y-[32px]">
             {/* Title */}
             <div className="w-full h-[39px] flex items-center justify-center bg-white rounded-md">
-                <h2 className="text-4xl font-bold leading-[39px] text-black">Partners</h2>
+                <h2 className="text-4xl font-bold text-black">Partners</h2>
             </div>
 
             {/* Partners Grid */}
